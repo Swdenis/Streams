@@ -1,6 +1,6 @@
 import React from 'react'
 
-const _clientId = '765325676687-c4hr9f0kd1kdokv99iv2fsf5422gqpe9.apps.googleusercontent.com'
+const _clientId = //the client id
 
 class GoogleAuth extends React.Component {
     state = { isSignedIn: null };
